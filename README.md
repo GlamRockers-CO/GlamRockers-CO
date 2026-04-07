@@ -17,7 +17,6 @@ Kins - Perytons, Feral Dogs, Brainstorm, Ratchet, WireFace
 
 <img width="1843" height="154" alt="image" src="https://github.com/user-attachments/assets/a4cbdb0c-c52b-4345-9305-557811c5e36c" />
 
-
 <p align="center">
 Interaction status - Open
 
@@ -29,3 +28,13 @@ Interests - Fight Club, Transformers, Regiments, Gay Culture, Punk Culture, Bugs
 ![tumblr_fef73f6e41bd21177a19e52d98418cf9_51447432_250](https://github.com/user-attachments/assets/c100c28b-6d5f-44c3-8155-3f9fa19a0522)
 <img width="1000" height="200" alt="image" src="https://github.com/user-attachments/assets/9c992a70-6eb7-4c2f-b927-07facd0bdc43" />
 
+_______
+
+<p align="center">
+Credits!
+
+<p align="center">
+@PinkiePieExplosion on GitHub for the Repository creation.
+
+<p align="center">
+Credit to anyone for the blinkies/borders!
