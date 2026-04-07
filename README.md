@@ -7,7 +7,7 @@
 
 ![blinkiesCafe-Zd](https://github.com/user-attachments/assets/ac5f309d-0491-4df6-bf77-47fc882b54e7)
 
-<img width="1000" height="10" alt="image" src="https://github.com/user-attachments/assets/0e3a40c7-c07e-4c1c-bc86-c0594e57e44c" />
+<img width="1000" height="75" alt="image" src="https://github.com/user-attachments/assets/0e3a40c7-c07e-4c1c-bc86-c0594e57e44c" />
 
 <p align="center">
 OSDD System 
