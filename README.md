@@ -6,7 +6,7 @@
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=GlamRockers-CO&label=Fights&color=a92e2e)
+![](https://komarev.com/ghpvc/?username=GlamRockers-CO&label=Bloody_Fists&color=a92e2e)
 
 ![blinkiesCafe-lI](https://github.com/user-attachments/assets/067a5a51-0b83-464e-a584-ebdc6edebd4f) ![blinkiesCafe-qg](https://github.com/user-attachments/assets/b7b53d9d-2fca-43cd-bb81-827111048ef2) ![u87xz1](https://github.com/user-attachments/assets/121ba604-9e71-4006-b994-77c82b8d95b1)
 
